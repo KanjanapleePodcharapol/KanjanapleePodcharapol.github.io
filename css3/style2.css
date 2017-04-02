@@ -48,8 +48,9 @@ strong {
 }
 
 .card-title {
-  color: #e16879;
+  color: coral;
   font-weight: 300;
+  font-size: 30px;
 }
 
 .card-block small {
@@ -82,3 +83,5 @@ p {
      font-size: 15px;
      color: #b9b1b1;
 }
+
+.interest1,.interest2,.interest3 {color: darkorchid;}
