@@ -1,0 +1,19 @@
+.display-1 {font-size: 30px;}
+
+body {background-image: url("http://i.imgur.com/3RMkJnR.gif");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.text-center {
+				background-color: transparent;
+}
+
+.btn-lg {border-color: transparent;
+          margin-top: 70px;
+}
+
+
+.title {color: coral !important;}
+.text {color: white;}
+

@@ -1,0 +1,84 @@
+
+
+.img-circle {
+	width:125px;
+	height:100px;
+	/*margin-left:250px*/;
+}
+
+/* profile.css */
+html {
+  background-color: black;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: grey;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+  margin-top: 10px;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
+
+.card-text {font-size: 15px;
+			color: #b9b1b1;
+}
+
+.test {
+	    background-color: rgb(171, 216, 216);
+}
+
+.one {
+		background-color: #171733;
+}
+
+.text-center {
+		background-color: darkslategray;
+
+}
+
+p {
+     font-size: 15px;
+     color: #b9b1b1;
+}
